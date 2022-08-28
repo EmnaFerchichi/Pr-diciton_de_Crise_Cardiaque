@@ -14,3 +14,4 @@ Les Algorithms Machine Learning Non Linéaire:
  Prediction de Nouveau Data
  sauvegarder le Model via Joblib
  Création de GUI 
+ 
